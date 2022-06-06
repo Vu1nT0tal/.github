@@ -13,5 +13,7 @@ VulnTotal安全团队成立于2022年。致力于分享高质量原创文章和�
 ## 核心成员
 
 <table><tr>
-<td align="center"><a href="https://github.com/firmianay"><img src="https://avatars.githubusercontent.com/u/15265215?v=4" width="80px;"><br /><b>一蓑烟雨</b></a></td>
+<td align="center"><a href="https://github.com/firmianay"><img src="https://avatars.githubusercontent.com/u/15265215?v=4" width="80px;"><br /><b>Chao Yang</b></a></td>
+<td align="center"><a href="https://github.com/s3nt3"><img src="https://avatars.githubusercontent.com/u/47658352?v=4" width="80px;"><br /><b>Zengxian Ding</b></a></td>
+<td align="center"><a href="https://github.com/CYeas"><img src="https://avatars.githubusercontent.com/u/15172194?v=4" width="80px;"><br /><b>Ye Chen</b></a></td>
 </tr></table>
