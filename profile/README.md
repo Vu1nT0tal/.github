@@ -7,11 +7,5 @@ VulnTotal安全团队成立于2022年。致力于分享高质量原创文章和�
 微信公众号：
 
 <table><tr>
-<td><img src=./img/gzh.jpg width="200"></td>
-</tr></table>
-
-## 核心成员
-
-<table><tr>
-<td align="center"><a href="https://github.com/firmianay"><img src="https://avatars.githubusercontent.com/u/15265215?v=4" width="100px;"><br /><b>一蓑烟雨</b></a></td>
+<td><img src=../img/gzh.jpg width="200"></td>
 </tr></table>
