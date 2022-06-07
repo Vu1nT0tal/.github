@@ -4,10 +4,11 @@ VulnTotal安全团队成立于2022年。致力于分享高质量原创文章和�
 
 交流QQ群：808542982、217863340
 
-微信公众号：
+微信群请加我微信，备注“加群”：
 
 <table><tr>
-<td><img src=./img/gzh.jpg width="150"></td>
+<td align="center"><img src=./img/gzh.jpg width="150"><br /><b>公众号</b></td>
+<td align="center"><img src=./img/wechat.jpg width="150"><br /><b>本人微信</b></td>
 </tr></table>
 
 ## 核心成员
