@@ -11,6 +11,7 @@ VulnTotal安全团队成立于2022年。致力于分享高质量原创文章和�
 <table><tr>
 <td align="center"><img src=./img/gzh.jpg width="150"><br /><b>公众号</b></td>
 <td align="center"><img src=./img/wechat.jpg width="150"><br /><b>本人微信</b></td>
+<td align="center"><img src=./img/zsxq.jpg width="150"><br /><b>知识星球</b></td>
 </tr></table>
 
 ## 核心成员
