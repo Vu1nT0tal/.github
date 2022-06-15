@@ -4,6 +4,8 @@ VulnTotal安全团队成立于2022年。致力于分享高质量原创文章和�
 
 交流QQ群：808542982、217863340
 
+[技术翻译组](https://github.com/VulnTotal-Team/TranslateProject)QQ群：143923332
+
 微信群请加我微信，备注“加群”：
 
 <table><tr>
